@@ -1,0 +1,15 @@
+bundler
+target
+.project
+.bundle
+.settings
+
+.classpath
+.idea
+*.iml
+*.ipr
+*.iws
+*.log
+*.log.*
+
+.DS_Store
